@@ -5,10 +5,10 @@ from tweepy import OAuthHandler
 from __future__ import print_function
 from tweepy.streaming import StreamListener
 
-access_token        = "833474190254698496-0yy50CdwitB8vWPe8G7BTU8t8jdie0W"
-access_token_secret = "tEV13P7yyslqOx4XOEyfWdi70gnsGo3MgXItyeID5fPva"
-consumer_key        = "kaPKNaydiko9PzKMxqBd0j8nU"
-consumer_secret     = "DT4QK2T3abnDnC2lLholx5Dq2yTin36TdV9fNiInl8n2yakCfb"
+access_token        = "-"
+access_token_secret = ""
+consumer_key        = ""
+consumer_secret     = ""
 
 TWEETS_LOCATION = "kamer_twts.txt"
 
